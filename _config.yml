@@ -1,5 +1,11 @@
 team:
   name: "Team"
+  base:
+    location: "at dumb burning man"
 battle:
   cry: "BATTLE CRY"
-
+flag:
+  color: goldenrod
+  highlight: blue
+font:
+  family: Helvetica
