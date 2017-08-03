@@ -1,0 +1,10 @@
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      team:
+        name: "Team"
+      battle:
+        cry: "BATTLE CRY"
+
