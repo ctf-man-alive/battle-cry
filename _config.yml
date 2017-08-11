@@ -9,3 +9,5 @@ flag:
   highlight: blue
 font:
   family: Helvetica
+other_site:
+  url: facebook.com
