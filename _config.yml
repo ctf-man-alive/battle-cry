@@ -5,6 +5,7 @@ team:
 battle:
   cry: "BATTLE CRY"
 flag:
+  background: green
   color: goldenrod
   highlight: blue
 font:
