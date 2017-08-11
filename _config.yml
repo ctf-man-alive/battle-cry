@@ -9,6 +9,6 @@ flag:
   color: red
   highlight: orange
 font:
-  family: Arial Black
+  family: Arial Black, Arial
 other_site:
   url: http://ritualwarfare.space
