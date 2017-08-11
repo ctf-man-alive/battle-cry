@@ -1,13 +1,13 @@
 team:
   name: "Team"
   base:
-    location: "at dumb burning man"
+    location: "behind Center Camp Cafe"
 battle:
-  cry: "BATTLE CRY"
+  cry: "MAN ALIVE"
 flag:
-  color: goldenrod
-  highlight: blue
+  color: red
+  highlight: orange
 font:
-  family: Helvetica
+  family: Arial Black
 other_site:
   url: http://facebook.com
