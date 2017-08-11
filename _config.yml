@@ -5,6 +5,7 @@ team:
 battle:
   cry: "MAN ALIVE"
 flag:
+  background: black
   color: red
   highlight: orange
 font:
